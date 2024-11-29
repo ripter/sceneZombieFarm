@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ripter/sceneZombieFarm#readme",
   "devDependencies": {
+    "eslint": "^9.15.0",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.0.1"
   },
